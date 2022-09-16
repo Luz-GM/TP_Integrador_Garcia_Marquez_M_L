@@ -41,3 +41,7 @@ div {
   bottom: 0px;
   left: 0px;
 }
+
+#textarea {
+  font-size: x-large;
+}
